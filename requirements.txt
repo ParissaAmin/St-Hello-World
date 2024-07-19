@@ -1,0 +1,7 @@
+# St-Hello-World
+
+streamlit
+streamlit-autorefresh
+requests
+beautifulsoup4
+pandas
