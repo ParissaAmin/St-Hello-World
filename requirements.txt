@@ -1,4 +1,3 @@
-# St-Hello-World
 
 streamlit
 streamlit-autorefresh
